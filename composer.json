@@ -1,0 +1,19 @@
+{
+	"name": "kingnet/composertest",
+	"description": "composertest package",
+	"keywords": ["identity", "a demo", "Chinese"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "kingnet",
+			"email": "494728736@qq.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"KingNet\\ComposerTest\\": ""
+		}
+	},
+	"minimum-stability": "stable",
+	"require": {}
+}
